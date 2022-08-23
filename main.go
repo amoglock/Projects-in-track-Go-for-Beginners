@@ -70,7 +70,7 @@ func sayGoodbye() {
 }
 
 func main() {
-	greet("Aid", "2020") // change it as you need
+	greet("Aid", "2020")
 	showName()
 	guessAge()
 	count()
