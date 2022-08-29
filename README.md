@@ -6,3 +6,7 @@
 
 2. ##### In-Memory Notepad 
       A simple [in-memory database](https://github.com/amoglock/Projects_in_track_Go_for_Beginners/blob/main/In_Memory_Notepad/main.go) that supports CRUD operations. Work with slices, loops, string formatting, standard IO and the bufio scanner.
+      
+
+3. ##### Coffee Machine
+      Functions, loops and conditions with [Go](https://github.com/amoglock/Projects_in_track_Go_for_Beginners/blob/main/Coffee_Machine/main.go).
