@@ -117,6 +117,7 @@ func takeMoney() {
 	supplies[4] = 0
 	actionOptions()
 }
+
 func main() {
 	actionOptions()
 }
