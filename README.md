@@ -13,4 +13,4 @@
       
       
 4. ##### Obscene Vocabulary Checker 
-      This project is all about basic concepts. Work with files, strings, slices, conditional statements, and loops.
+      [This project](https://github.com/amoglock/Projects_in_track_Go_for_Beginners/blob/main/Obscene_Vocabulary_Checker/main.go) is all about basic concepts. Work with files, strings, slices, conditional statements, and loops.
