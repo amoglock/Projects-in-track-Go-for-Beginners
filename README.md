@@ -10,3 +10,7 @@
 
 3. ##### Coffee Machine
       Functions, loops and conditions with [Go](https://github.com/amoglock/Projects_in_track_Go_for_Beginners/blob/main/Coffee_Machine/main.go).
+      
+      
+4. ##### Obscene Vocabulary Checker 
+      This project is all about basic concepts. Work with files, strings, slices, conditional statements, and loops.
