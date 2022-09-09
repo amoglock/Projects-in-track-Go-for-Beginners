@@ -14,3 +14,7 @@
       
 4. ##### Obscene Vocabulary Checker 
       [This project](https://github.com/amoglock/Projects_in_track_Go_for_Beginners/blob/main/Obscene_Vocabulary_Checker/main.go) is all about basic concepts. Work with files, strings, slices, conditional statements, and loops.
+
+
+5. ##### Flashcards
+      The [program](https://github.com/amoglock/Projects_in_track_Go_for_Beginners/tree/main/Flashcards), simple game.  It work with files and call them from the command line.
