@@ -18,3 +18,7 @@
 
 5. ##### Flashcards
       The [program](https://github.com/amoglock/Projects_in_track_Go_for_Beginners/tree/main/Flashcards), simple game.  It work with files and call them from the command line.
+
+
+6. ##### Duplicate file handler
+      The [console app](https://github.com/amoglock/Projects_in_track_Go_for_Beginners/blob/main/Duplicate_file_handler/dfh.go), can find duplicate files and remove it. Work with files. paths and hash the files. 
